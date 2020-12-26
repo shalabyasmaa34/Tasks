@@ -1,0 +1,26 @@
+question 1:
+for(var i=0;i<=4;i++)
+{
+console.log(i);
+}
+ Answer :
+0
+1
+2
+3
+4
+
+question 2:
+or(var j=0;j<=4;j++)
+
+{
+console.log(j);
+}
+ Answer :
+0
+1
+2
+3
+4
+
+
