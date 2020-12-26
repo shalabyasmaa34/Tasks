@@ -1,0 +1,43 @@
+Question 1:
+const key='white_rabbit';
+if(true)
+{
+const key='ginger_rabbit';
+console.log(key);
+answer = white _rabbit.
+Question 2:
+let x=42;
+if(true)
+{
+console.log(x);
+let x=1337;
+}
+answer= xis not defined 
+
+ Question 3:
+
+var x='foo${x};
+var y='bar${x};
+console.log(x);
+answer= Error
+
+Question 4:
+var x='foo${y};
+var y='bar${y};
+console.log(y);
+answer= Error
+
+Question 5:
+const user ={
+name:'Joe',
+pet:{
+type:'dog',
+name:'Buttercup'.
+}
+{:
+object .freeze (user);
+user.pet.name='Daffodil;
+console.log(user.pet.name);
+ answer= Joe is not defined 
+
+age:25,
